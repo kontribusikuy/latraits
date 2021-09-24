@@ -1,0 +1,19 @@
+{
+    "name": "kontribusikuy/latraits",
+    "description": "Some traits like response trait and external link trait for Laravel development",
+    "require": {
+        "laravel/laravel": "^8.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Siti Laelatur Rochmah",
+            "email": "leeellaaa.kuy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "KontribusiKuy\\Latraits\\": "src/"
+        }
+    }
+}
